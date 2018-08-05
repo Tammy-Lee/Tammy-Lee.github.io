@@ -66,13 +66,25 @@ Steem还使用客观指标识别和奖励其他形式的贡献。其中包括：
 
 # Ways to Contribute
 
+本节概述了Steem背后的想法及其为Steem社区提供有意义且可衡量的贡献的人的奖励。
+
 ## Capital Contributions
+
+社区可以提供两个项目来吸引资金：债务和所有权。 那些购买所有权的人在社区成长时获利，但如果社区萎缩则会失败。 购买债务的人保证有一定的利息，但不能参与社区增长所实现的任何利润。 这两种类型的资本贡献对社区的增长和货币的价值都很有价值。 此外，还有两种方式可以持有所有权：流动和归属。 归属所有权是一项长期承诺，不能在最短的时间内出售。
+
+Steem网络称这些不同的资产类别为Steem（STEEM），Steem Power（SP）和Steem Dollars（SMD）。
 
 ## Steem(STEEM)
 
+
+
 ## Steem Power(SP)
 
+
+
 ## Steem Dollars(SMD)
+
+
 
 ### Minimizing Fraudulent Feeds
 
