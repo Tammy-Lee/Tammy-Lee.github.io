@@ -10,3 +10,70 @@ tags: [Blockchain, Network]
 # Abstract
 
 Steem 是一个区块链数据库，支持社区构建和基于虚拟奖励的社会交互。 Steem 结合社交媒体和构建虚拟货币及社区的经验。 对于任何社区，激发参与都是关键所在，现金或自由市场经济都是一个能够一致反应每个参与人贡献的公平的记账系统。 Steem 是第一个虚拟货币，这种虚拟货币尝试准确透明地奖励那些向所在社区做出subjective contributions的不限数量的参与人。
+
+# Introduction
+
+集体的，用户生产内容已经为社交媒体公司的股东创造了许多价值，例如Reddit，Facebook和Twitter。 在2014年，Reddit假设，如果每个在reddit.com上发故事，添加评论或投票的人都能获得Reddit的股份，那么他们的平台将会扩张。 Steem旨在通过回馈做出有价值贡献的参与人以等价值的虚拟货币来支持社交媒体和在线社区， 通过这一过程创造一种可以到达更广阔市场的货币，包括那些已经参与到任意虚拟货币经济体的用户。
+
+Steem设计时遵循了几条关键原则。
+
+- 最重要的原则是**对风险投资的所有人都应该按比例接受合资企业的所有权、支付或债务。这一原则是适用于所有初创公司的原则，因为它们在创立和随后的融资回合中分配股票。**
+- 第二条原则是**所有形式的资本都具有同等价值**这意味着那些为其他人制作和策划内容而贡献他们稀缺时间和注意力的人与那些贡献他们稀缺现金的人一样有价值。 这是汗水公平原则，是一种先前的加密货币往往难以提供更多的概念。
+- 第三条原则是**社区生产产品来服务其成员**信用合作社，食品合作社和健康分享计划就是这一原则的典范，这些计划为社区成员服务，而不是向社区外的人销售产品或服务。
+
+Steem 社区为其成员提供以下服务：
+
+- 策展新闻和评论的来源。
+- 一种获得个性化问题的高质量答案的方法。
+- 稳定的加密货币与美元挂钩。
+- 免费付款。
+- 向其他成员提供上述服务的工作。
+
+比起社交媒体和加密货币平台，Steem有目的地调整经济激励措施，有可能为所有参与者提供更公平，更具包容性的结果，而不是社交媒体和加密货币平台。 本文将探讨现有的经济激励措施，并展示Steem的激励措施如何为大多数参与者带来更好的结果。
+
+## Recognition Contribution
+
+Steem设计初衷在于解决社交媒体采用经济和货币化的主要障碍。我们的论点是，用于发展主要社交媒体平台的相同技术可用于引导成功的加密货币。 加密货币带来的经济激励可以极大地促进新社交媒体平台的发展。 加密货币和社交媒体之间的协同作用我们认为可能会给Steem在市场上带来强大的优势。
+
+Steem面临的挑战是得出一种评估个人贡献的算法，大多数社区成员认为这是对每种贡献的主观价值的公平评估。 在一个完美的世界中，社区成员将合作评估彼此的贡献并获得公平的补偿。 在现实世界中，算法必须以这样的方式设计，即它们不能有意地操纵利润。 任何普遍滥用评分系统的行为都可能导致社区成员对经济系统的公平性失去信心。
+
+现有平台以一用户一票原则运作。 这创造了一个环境，可以通过sybil攻击操纵排名，服务提供商必须主动识别和阻止滥用者。 当唯一的奖励是网络流量或审查时，人们已经尝试操纵Reddit，Facebook和Twitter评分算法。
+
+> [sybil attack: 女巫攻击](https://blog.csdn.net/qq_35056292/article/details/60480292)
+>
+> 在对等网络中，但节点通常具有多个身份标识，通过控制系统的大部分节点来消弱冗余备份的作用。
+
+Steem平台上的基本帐户是STEEM，一种加密货币令牌。 Steem在一次投票的基础上运作，一次投票。 在这种模式下，通过账户余额衡量，对平台贡献最大的个人对贡献得分的影响最大。 此外，Steem只允许会员在承诺多年归属日程时与STEEM一起投票。 在这种模式下，成员有财务激励，以最大化其STEEM的长期价值的方式进行投票。
+
+> The fundamental unit of account on the Steem platform is STEEM, a crypto currency token. Steem operates on the basis of one-STEEM, one-vote. Under this model, individuals who have contributed the most to the platform, as measured by their account balance, have the most influence over how contributions are scored. Furthermore, Steem only allows members to vote with STEEM when it is committed to amulti-year vesting schedule. Under this model, members have a financial incentive to vote in a way that maximises the long term value of their STEEM.
+
+Steem是围绕一个相对简单的概念设计的：每个人对社区的有意义的贡献都应该被认可，因为它增加了它的价值。 当人们因其有意义的贡献而得到认可时，他们会继续贡献，社区也会成长。 社区内的任何不平衡都是不可持续的。 最终，捐赠者厌倦了支持接受者和脱离社区。
+
+挑战在于创建一个能够以可扩展到无限数量的人的方式确定所需贡献及其相对价值的系统。
+用于评估和奖励贡献的成熟系统是自由市场。 自由市场可以被视为一个单独的社区，每个人都互相交易，奖励由损益分配。 市场体系奖励那些为他人提供价值的人，并惩罚那些消费价值高于他们生产者的人。 自由市场支持许多不同的货币，而货币只是每个人都容易交换的商品。
+
+由于自由市场是一个成熟的系统，因此很有可能试图创建一个内容消费者直接向内容制作者付费的自由市场系统。但是，直接付款效率低下，对于内容创建和策划而言并不可行。大多数内容的价值相对于与少数读者选择提示的付款相关的认知，财务和机会成本而言是如此之低。丰富的免费替代品意味着强制执行“付费墙”将推动其他地方的读者。已经有多次尝试从读者到作者实施每篇文章的小额支付，但没有一种已经普及。
+
+Steem旨在通过改变经济等式，为各种贡献提供有效的小额支付。读者不再需要决定他们是否想要从自己的口袋中支付某人，而是可以上下投票，而Steem会使用他们的投票来确定个人奖励。这意味着人们被赋予了熟悉且广泛使用的界面，并且不再面临与传统微支付和小费平台相关的认知，财务和机会成本。
+
+来自社区成员的投票输入对于Steem准确地向贡献者分配付款至关重要。因此，投票可被视为一项至关重要的贡献，值得自己奖励。一些平台，如Slashdot，使用元审核作为对诚实版主进行排名和奖励的方式。 Steem选择奖励那些对内容的全面推广贡献最大的人，并奖励选民与支付给内容创作者的最终奖励成比例。
+
+Steem还使用客观指标识别和奖励其他形式的贡献。其中包括：交易验证，工作证明挖掘，流动性奖励以及行为不端区块生产者的报告。
+
+> transaction validation, proof of work mining, liquidity rewards, and reporting of misbehaving block producers.
+
+
+
+# Ways to Contribute
+
+## Capital Contributions
+
+## Steem(STEEM)
+
+## Steem Power(SP)
+
+## Steem Dollars(SMD)
+
+### Minimizing Fraudulent Feeds
+
+### Mitigating Timing Attacks
