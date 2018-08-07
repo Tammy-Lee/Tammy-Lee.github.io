@@ -5,6 +5,14 @@ date: 2018-08-05 19:25:00 +0800
 tags: [Blockchain, Network]
 ---
 
+*.TOC
+
+{:toc}
+
+# Material 
+
+[写文章挣钱，这件事可行吗？——Steemit，区块链世界最被误解的案例](http://www.cocoachina.com/blockchain/20180313/22564.html)
+
 
 
 # Abstract
@@ -86,12 +94,177 @@ Steem是Steem区块链的基本帐户。所有其他令牌都是从STEEM的值�
 
 ## Steem Power(SP)
 
+创业公司需要长期资本承诺。那些在创业公司投资的人希望在他们出售股票并实现利润之前等待数年。如果没有长期承诺，寻求通过出售额外股份筹集额外资金的创业公司将与希望退出的现有股东竞争。精明的投资者希望他们的资本贡献能够促进公司的发展，但如果新的资本被放弃给那些希望退出的人，那么增长就不可能实现。
 
+长期承诺具有重要价值，因为它使社区能够制定长期计划。利益相关者的长期承诺也使他们投票支持长期增长而不是短期增长。
+
+在加密货币领域，投机者从投资加密货币跳到投资预期会有短期增长的加密货币 Steem希望建立一个被大部分具有长远眼光的所有者控制的社区。
+
+由于Steem希望鼓励长期发展，因此为Steem Power（SP）利益相关者分配9 STEEM，因为它创造的每1个STEEM都通过捐款激励来为增长提供资金。随着时间的推移，这将使Steem Power天平的总STEEM值与STEEM天平总量之比达到9：1。 （由于新打印的STEEM的净持续上涨，似乎比率大于9：1。）这也意味着长期持有者几乎完全免受用于资助增长的稀释。
+
+SP只能在2年内通过104等额付款转换回STEEM。 '1 SP'可以被视为STEEM池中的一个份额。网络会自动将STEEM添加到池中。用户可以随时将其STEEM转换为SP，其比例与归属池中的STEEM相同。将STEEM转换为SP不会稀释SP的现有持有者。同样，每次将SP转换回STEEM时，都会以当前比率完成。个人保证在未来比他们第一次从STEEM转换为SP时拥有更多的STEEM。
+
+除非通过自动重复转换请求，否则SP余额不可转让且不可分割。这意味着SP无法在加密货币交易所轻松交易。
+
+SP是对内容进行投票或反对的要求。这意味着SP是一个访问令牌，授予其持有者在Steem平台内的独家权力。
+
+从STEEM转移到SP被称为加电，而从SP转移到Steem被称为“断电”。例如，可以在两年内关闭他们的STEEM，但是可以立即启动他们的STEEM 。
 
 ## Steem Dollars(SMD)
 
+稳定是成功的全球经济的重要特征。如果没有稳定性，世界各地的个人在从事商业和储蓄时都不会有低认知成本。由于稳定性是成功经济体的一个重要特征，因此Steem Dollars旨在为加密货币世界和使用Steem网络的个人带来稳定性。
 
+Steem Dollars是通过类似于可转换票据的机制创建的，这些票据通常用于资助初创公司。在创业公司中，可转换债券是短期债务工具，可以按照未来确定的利率转换为所有权，通常在未来的融资期间。基于区块链的令牌可以被视为社区中的所有权，而可转换票据可以被视为以任何其他商品或货币计价的债务。可转换票据的条款允许持有人以令牌的公平市场价格的最小通知转换为支持令牌。创建令牌可兑换美元使区块链能够增强其网络效应，同时最大化令牌持有者的回报。
+
+Steem Dollars用符号SMD表示，这是SteemDollars的首字母缩写。创建SMD需要结合可靠的价格馈送，防止滥用的规则和流动性。提供可靠的价格进料涉及三个因素：最小化不正确进料的影响，最大化生成错误进料的成本，以及最小化时间的重要性。
 
 ### Minimizing Fraudulent Feeds
 
+SP持有人选举个人发布价格信息。这些当选的个人大概信任那些对饲料质量有既定兴趣的人。通过支付当选者，Steem创造了市场竞争，以获得生产饲料的权利。通过发布虚假信息，饲料生产者得到的报酬就越多。
+
+给定一组受信任和选定的饲料生产者，用于转化的实际价格可以作为饲料的中位数得出。通过这种方式，如果任何少数个体饲料生产者产生异常值，他们对实际中位数的影响最小，同时仍具有影响其声誉的能力。
+
+即使所有饲料生产者都是诚实的，大多数饲料生产者也可能受到超出其控制范围的事件的影响。 Steem网络旨在容忍中间价格饲料的短期腐败，同时社区积极努力纠正问题。可能需要一些时间才能纠正的问题的一个例子是短期市场操纵。长时间维护市场操作既困难又昂贵。另一个例子是集中交换失败或交易所发布的数据损坏。
+
+Steem通过使用一周期间的中位数价格来计算短期价格波动。每小时每小时对已公布的饲料中值进行采样。
+
+只要价格饲料腐败持续时间不到一半，就会对转换价格产生最小影响。
+
+如果Feed被破坏，网络参与者将有机会在损坏的Feed可能影响实际转换价格之前将损坏的Feed生产者投票。也许更重要的是，它为饲料生产商提供了在饲料开始影响价格之前检测和纠正问题的机会。
+
+在一周的时间内，社区成员有三天半的时间来回应任何问题。
+
 ### Mitigating Timing Attacks
+
+
+
+###  Minimizing Abuse of Conversions
+
+### Liquidity
+
+### Sustainable Debt to Ownership Ratios
+
+### Interest
+
+### Setting Price Feeds
+
+## Subjective Contributions
+
+### Distributing Currency
+
+###  Voting on Distribution of Currency
+
+#### Voting Collusion
+
+#### The Story of the Crab Bucket
+
+### Rate Limited Voting
+
+### Delayed Payouts
+
+### Payout Distribution
+
+#### Rewarding Parent Posts
+
+### Payouts
+
+# Cosensus Algorithm
+
+## Consensus in Steem
+
+## Mining in Steel
+
+### Mining Rewards require Steam Power
+
+### Mining Algorithm
+
+### Botnet Resistant
+
+### Mining Pool Resistant
+
+# Eliminating Transaction Fees
+
+## The Problems With Fees
+
+### Micropayments Don't Work
+
+### Fees are a Barrier to Entry
+
+### Changing Fees
+
+### Sybil Attacks
+
+### Full Beyond Micropayments
+
+
+
+## Iterating Beyond Micropayments
+
+### Example Implementation
+
+### Case Study: Bitcoin
+
+#### Impact of Capacity
+
+#### Maximum Number of Unique Users
+
+#### Comparison to Fees
+
+### Account Creation
+
+### Justifying Minimum Balances
+
+### Adjusting the Reserve Ratio
+
+### Effectiveness Relative to Fees
+
+### Renting vs. Buying vs. Time Sharing
+
+# Performance and Scalability
+
+## Reddit Scale
+
+
+
+# Allocation & Supply
+
+## Impact of Token Creation Rate
+
+### Impact of Token Creation Rate Greater Than Ninety-Percent
+
+### Accounting In Steem
+
+
+
+# The Power of Steem
+
+## No Micropaymnets, Tips Optional
+
+## Value is the Links
+
+## Solving the Crytocurrency Onboarding Problem
+
+## Solving the Cryptocurrency Liquidation Problem
+
+## Censorship
+
+## Solving Organic Discovery via Search Engine Optimization
+
+## Shifting Toward Blockchian-based Attribution
+
+## Replacing Advertising with Blockchian-based Content Rewards
+
+
+
+# Conclusion
+
+
+
+
+
+
+
+
+
+
+
