@@ -7,6 +7,8 @@ tags: [Blockchain, Network]
 
 # Table of Content 
 
+*.TOC 
+
 {:toc}
 
 # Material 
@@ -186,7 +188,9 @@ SMD向持有人支付利息。 利率由发布价格饲料的同一人设定，�
 
 精明的读者会认识到，有限供应的计息资产(interest bearing asset of limited supply)可能会比相关资产的交易价格更高或更低，这取决于其他获得同一资产利息的机会。 由于与美元挂钩的资产支付高利率，许多人将提高有限的SteemDollars供应量，直到它们的价值不再为1美元。 在经济学中有一个被称为“不可能三位一体”的原则，该原则指出不可能同时拥有以下所有三个：
 
-- 
+- 稳定的汇率
+- 自由资本流动
+- 独立的货币政策
 
 ## Subjective Contributions
 
