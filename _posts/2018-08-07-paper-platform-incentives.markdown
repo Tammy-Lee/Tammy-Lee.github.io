@@ -7,11 +7,17 @@ tags: [Network, Platform, Papers]
 
 # Table of Content
 
-*. TOC
+1. TOC
 
 {:toc}
 
+
+
 # Table of Paper
+
+{:toc}
+
+
 
 |      | Title                                                        | Journal                      | Issue |
 | :--- | ------------------------------------------------------------ | ---------------------------- | ----- |
