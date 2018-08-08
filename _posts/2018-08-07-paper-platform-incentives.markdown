@@ -5,7 +5,9 @@ date: 2018-08-07
 tags: [Network, Platform, Papers]
 ---
 
+# Table of Content
 
+[TOC]
 
 # Table of Paper
 
@@ -16,6 +18,12 @@ tags: [Network, Platform, Papers]
 | 3    |                                                              |                              |       |
 
 # [B Brian S., 2001] Membership Size, Communication Activity, and Sustainability: A Resource-Based Model of Online Social Structures
+
+## Summary
+
+
+
+
 
 ## Short Version(key construct)
 
