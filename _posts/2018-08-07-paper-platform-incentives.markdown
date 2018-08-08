@@ -7,7 +7,9 @@ tags: [Network, Platform, Papers]
 
 # Table of Content
 
-[TOC]
+*. TOC
+
+{:toc}
 
 # Table of Paper
 
