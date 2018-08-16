@@ -7,7 +7,7 @@ tags: [Blockchain, Network]
 
 # Table of Content 
 
-*.TOC 
+*. TOC 
 
 {:toc}
 

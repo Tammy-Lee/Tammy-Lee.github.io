@@ -8,14 +8,11 @@ tags: [Network, Platform, Papers]
 # Table of Content
 
 1. TOC
-
 {:toc}
 
 
 
 # Table of Paper
-
-{:toc}
 
 
 
