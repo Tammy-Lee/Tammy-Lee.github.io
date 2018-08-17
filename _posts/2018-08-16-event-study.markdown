@@ -1,5 +1,9 @@
 # 事件研究法
 
+
+
+[TOC]
+
 ## 理论背景与发展
 
 事件研究（event study）公司财务实证研究的重要支柱之一，是一种假设检验方法。其目的是检验Fama[1970]年提出的半强式有效市场（semi-strong efficiency market），即市场对公开信息发布的合理反应。半强式有效市场的市场价格充分反映所有已公开信息，如果市场收到新的信息，将会及时反映在股价上。事件研究法可以用来测量企业事件的影响，即测量事件对公司价值变化造成的冲击大小。这种方法的基础是一种半强的市场效率形式，它做出两个假设。首先，股票价格反映了所有公开信息。其次，股票价格会立即发生变化，以反映新信息何时可用（Fama 1970）。根据这些假设，投资者使用公告中包含的新信息立即调整他们对焦点公司未来现金流的预期。结果，公司股票的价格变化以应对这些新的预期;该变更捕获与公告中包含的新信息相关的增值。
@@ -60,7 +64,7 @@ MacKinlay（1997）概述了一种事件研究方法，涉及以下步骤：（1
    | Market-adjusted model                             |           | ![image-20180817112259067](/Users/v_liliting/Downloads/image-20180817112259067.png) | Rmt是股票市场在时间t交易的所有股票的平均回报率。             | Brown and Warner (1985) |
    | Fama-French model                                 |           | ![image-20180817112118264](/Users/v_liliting/Downloads/image-20180817112118264.png) | SMBt是尺寸因子，表示在第t天小型和大型市场资本化股票投资组合的收益率之间的回报差异，HMLt是价值因素，表明在第t天期间，在高和低的市值股票投资组合之间回报。 | Fama and French (1993)  |
    | Fama-French-Carhart model                         |           | ![image-20180817112350448](/Users/v_liliting/Downloads/image-20180817112350448.png) | UMDt是动量因子，表示在第t天期间高和低先前回报股票投资组合之间的差异 | Carhart (1997)          |
-   | Buy-and-hold abnormal returns (BHARs)             | long-term | ![image-20180817112412711](/Users/v_liliting/Downloads/image-20180817112412711.png) |                                                              |                         |
+   | Buy-and-hold abnormal returns (BHARs)             | long-term | ![image-20180817112412711](/Users/v_liliting/Downloads/image-20180817112412711.png) | 定义为已实现的买入并持有收益与正常买入与持有收益之间的差额   | Barber and Lyon（1997） |
    | Calendar-time portfolios abnormal returns (CTARs) | long-term | ![image-20180817112451842](/Users/v_liliting/Downloads/image-20180817112451842.png) | Rpt是投资组合的实现回报，在T个月内测量的事件公司组合的月份t。 截距（α_p）提供事件公司投资组合在事后T个月期间的估计平均每月异常回报。 截距*12=年度异常收益。 |                         |
 
    
@@ -90,8 +94,8 @@ MacKinlay（1997）概述了一种事件研究方法，涉及以下步骤：（1
    H0:平均异常收益等于0。
 
 > [event study lecture slides](http://www1.uis.no/ansatt/odegaard/teach/empir_finance_2018/lectures/event_studies/event_studies_lecture_slides.pdf)
-
-## 相关研究及细节
+>
+> [Event study methodology](https://eventstudymetrics.com/index.php/event-study-methodology/)
 
 
 
